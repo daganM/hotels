@@ -2286,6 +2286,11 @@ input, select, textarea {
 		background-position: top left, center center;
 	}
 
+	#two img {
+		width: 100%;
+    min-width: 0;
+	}
+
 @media screen and (max-width: 767px) {
 	#two .flex {
 		flex-wrap: wrap;
