@@ -1453,6 +1453,12 @@ input, select, textarea {
 				display: block;
 			}
 
+			.gallery img {
+				padding: 10px;
+				max-width: 300px;
+				width: 100%;
+			}
+
 			.gallery article:nth-last-child(1n) {
 				-moz-transition-delay: 0.05s;
 				-webkit-transition-delay: 0.05s;
@@ -2342,3 +2348,6 @@ input, select, textarea {
 			}
 
 		}
+
+.gallery {
+	
