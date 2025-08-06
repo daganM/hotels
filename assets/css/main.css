@@ -2260,7 +2260,7 @@ input, select, textarea {
 	}
 
 	#bgvid {
-		position: fixed; right: 0; bottom: 0;
+		position: fixed; 
 		min-width: 100%; min-height: 100%;
 		width: auto; height: auto; z-index: 0;
 		background: url("../../images/intro.jpg") no-repeat;
